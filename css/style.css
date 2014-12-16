@@ -42,6 +42,24 @@
 	margin-top:23px;
 	margin-left:53px;}
 	
+.content-tab-content ul li{
+	float: left;
+	list-style-type: none;
+	margin: 0px 28px 0px 28px;
+	padding: 0px 0px 32px 0px;
+	height: 295px;
+	width: 280px;}
+	
+.content-tab-content h2{
+	font-size: 14px;
+	color:#0d0d0d;
+	margin-bottom:17px;}
+	
+.content-tab-content p{
+	font-size: 13px;
+	line-height: 15px;
+	margin-bottom:15px;}
+	
 .footer-intro-wrapper p{
 	margin-left:60px;
 	margin-right:50px;

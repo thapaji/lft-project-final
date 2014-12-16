@@ -72,10 +72,10 @@
 	
 .content-tab-content{
 	width:1009px;
-	height:150px;
 	background:#FFFF00;}
 	
 .footer-main-wrapper{
+	clear:both;
 	width:1009px;
 	background:#FF6699;
 	margin:0 auto;
